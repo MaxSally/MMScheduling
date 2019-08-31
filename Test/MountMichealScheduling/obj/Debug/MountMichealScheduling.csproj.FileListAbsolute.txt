@@ -1,0 +1,17 @@
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\obj\Debug\MountMichealScheduling.csprojAssemblyReference.cache
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\obj\Debug\MountMichealScheduling.Form1.resources
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\obj\Debug\MountMichealScheduling.Properties.Resources.resources
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\obj\Debug\MountMichealScheduling.csproj.GenerateResource.cache
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\obj\Debug\MountMichealScheduling.csproj.CoreCompileInputs.cache
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\bin\Debug\MountMichealScheduling.exe.config
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\bin\Debug\MountMichealScheduling.exe
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\bin\Debug\MountMichealScheduling.pdb
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\bin\Debug\ExcelDataReader.dll
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\bin\Debug\System.ValueTuple.dll
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\bin\Debug\ExcelDataReader.xml
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\bin\Debug\System.ValueTuple.xml
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\obj\Debug\MountMichealScheduling.csproj.CopyComplete
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\obj\Debug\MountMichealScheduling.exe
+C:\Users\Max\Dropbox\DuAn_Quan_Quang\MountMichealScheduling\MountMichealScheduling\obj\Debug\MountMichealScheduling.pdb

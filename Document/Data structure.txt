@@ -1,0 +1,62 @@
+1) class Enrollment
+- subjectId: int
+- priority: int
+- departmenId: int
+- semester: int
+
+2) class Student
+- name: String
+- grade: int
+- enrollments: List<Enrollment>
+
+3) class Subject
+- id: int
+- name: String
+
+4) class Department
+- id: int
+- name: String
+- minBound: int
+- maxBound: int
+
+5) class Room
+- id: int
+- name: String
+- recommenedCapacity: int
+- maximumCapacity: int
+
+6) class Class
+- id: int
+- period: int
+- subjectId: int
+- teacherName: String
+- roomId: int
+- daysOfWeek: bool[5]
+- semester: int
+
+7) class PairRelation
+- classId1: int
+- classId2: int
+
+8) class AcceptableConflictRelation
+- classId1: int
+- classId2: int
+
+List<Student> students;
+        Dictionary<int, Subject> subjects;
+        Dictionary<int, Department> departments;
+        Dictionary<int, Room> rooms;
+        Dictionary<int, List<Class>> classes;
+        List<PairRelation> pairRelations;
+        List<AcceptableConflictRelation> acceptableConflictRelations;
+        int[] credits;
+
+        List<List<int>> bestSolution, currentSolution;
+        bool solutionFound;
+
+        Dictionary<int, int>[] studentCount;
+        List<int>[,,,] schedules;
+        int[] studentProgress;
+
+        double bestCost = Double.MaxValue;
+

@@ -1,0 +1,5 @@
+- Required?
+- Priority
+- Credit
+- Equal # students in each class
+- # of classes satisfy

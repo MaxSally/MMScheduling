@@ -1,0 +1,111 @@
+12
+1
+English IV
+Gathje, John
+S210
+MTWRF
+2
+Vocations
+Schaefer, Brother August
+S106
+MTWRF
+3
+AP European History
+Roshone, John
+S208
+MTWRF
+4
+Intro to Statistics
+Mackeprang, Jason
+S119
+MTWRF
+5
+Study Hall
+Spooner, Derrik
+S108
+MTWRF
+6
+Anatomy/ Physiology
+Crnkovich, Randy
+S122
+MTWRF
+7
+AP Biology
+Crnkovich, Randy
+S122
+MTWRF
+8
+AP Biology Lab
+Crnkovich, Randy
+S122
+R
+8
+Study Hall
+Gathje, John
+S108
+MTWF
+9
+Study Hall
+Townsend, Scott
+S108
+MWRF
+9
+College/Career 12
+Hinrickson, Noelle
+205
+T
+/**/
+11
+1
+English IV
+Gathje, John
+S210
+MTWRF
+2
+Catholic Social Teaching
+Schaefer, Brother August
+S106
+MTWRF
+3
+AP European History
+Roshone, John
+S208
+MTWRF
+4
+Intro to Statistics
+Mackeprang, Jason
+S119
+MTWRF
+5
+Personal Finance
+Mackeprang, Jason
+S119
+MTWRF
+6
+Anatomy/ Physiology
+Crnkovich, Randy
+S122
+MTWRF
+7
+AP Biology
+Crnkovich, Randy
+S122
+MTWRF
+8
+AP Biology Lab
+Crnkovich, Randy
+S122
+R
+8
+Study Hall
+Gathje, John
+S108
+MTWF
+9
+Study Hall
+Townsend, Scott
+S108
+MTWRF
+9
+
+

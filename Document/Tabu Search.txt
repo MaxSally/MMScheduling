@@ -1,0 +1,12 @@
+﻿Phép biến đổi:
+
+- Phép đổi lớp trong một học sinh:
+Với học sinh i, đăng kí j, đổi solution[i][j] sang một giá trị khác
+
+- Phép chuyển giờ trong một học sinh:
+Với học sinh i và cặp đăng kí (j1, j2), nếu lớp của hai đăng kí có cùng giờ học, đổi solution[i][j1] và solution[i][j2] sang lớp tương ứng (nếu có)
+
+Tabu list:
+
+- List 1: Tuple (học sinh i, đăng kí j, giá trị cũ của solution[i][j])
+- List 2: Tuple (học sinh i, đăng kí j1, đăng kí j2)

@@ -1,0 +1,37 @@
+﻿Với mỗi học sinh:
+
+- Với mỗi student, với mỗi tiết, nếu có x cặp class bị trùng giờ mà không thuộc danh sách chấp nhận được thì chi phí là:
+x * COST_CONFLICT_CLASS
+với COST_CONFLICT_CLASS = 1000
+
+- Với mỗi department, gọi x là số môn học sinh này đăng kí thuộc department, chi phí là:
+max(0, minBound - x, x - maxBound) * COST_DEPARTMENT
+với COST_DEPARTMENT = 1000
+
+- Nếu có x cặp class trong PairRelation không được thỏa mãn yêu cầu, chi phí là:
+x * COST_PAIR_UNSATISFIED
+với COST_PAIR_UNSATISFIED = 1000
+
+- Với mỗi class, gọi x là số học sinh tham gia class đó, recommendCapacity và maximumCapacity là giới hạn đề nghị và giới hạn tối đa của phòng học dành cho class.
+Chi phí là:
+  + Nếu recommendCapacity <= x <= maximumCapacity:
+  (x - recommendCapacity) * COST_EXCEEDING_RECOMMENDED_CAPACITY
+  + Nếu maximumCapacity <= x:
+  (maximumCapacity - recommendCapacity) * COST_RECOMMENDED_CAPACITY_EXCEEDED + (x - maximumCapacity) * COST_MAXIMUM_CAPACITY_EXCEEDED
+Với:
+  + COST_MAXIMUM_CAPACITY_EXCEEDED = 1000
+  + COST_RECOMMENDED_CAPACITY_EXCEEDED = 10
+
+- Với mỗi enrollment bị từ chối, chi phí là:
+  + Nếu priority = 1: COST_PRIORITY_1_DENIED = 50
+  + Nếu priority = 2: COST_PRIORITY_2_DENIED = 25
+  + Nếu priority = 3: COST_PRIORITY_3_DENIED = 15
+  + Nếu priority = 4: COST_PRIORITY_4_DENIED = 10
+  + Nếu priority >= 5: COST_PRIORITY_5_DENIED = 5
+
+- Với mỗi học sinh, nếu số credit trong cả hai học kì là x, số credit cần có đối với học sinh đó là r thì chi phí là:
+max(0, r - x) * COST_CREDIT_INSUFFICIENT
+với COST_CREDIT_INSUFFICIENT = 1000
+
+
+  

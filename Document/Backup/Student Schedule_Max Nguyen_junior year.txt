@@ -1,0 +1,118 @@
+11
+1
+Study Hall
+Toff, Holly
+S108
+MTWRF
+2
+Sacraments
+VanDenHemel, Carol Jean
+108
+MTWRF
+3
+AP American History
+Roshone, John
+209
+MTWRF
+4
+Study Hall
+Sullivan, Bob
+Dining Room
+MTWRF
+5
+Spanish II
+Compos, Rita
+103
+MTWRF
+6
+AP English Language
+Wilberding, Ed
+210
+MTWRF
+7
+Honors Physics
+Liebl, Abbot Michael
+206
+MTWRF
+8
+Honors Physics Lab
+Liebl, Abbot Michael
+206
+R
+8
+Study Hall
+Campos, Rita
+Dining
+MTWF
+9
+Honors Calculus III
+Williams, Michael
+206
+MTWRF
+0
+Advanced Robotics
+Williams, Michael
+Crypt
+TR
+/**/
+12
+1
+Study Hall
+Toff, Holly
+S108
+MTWRF
+2
+Morality
+Masek, Army
+108
+MTWRF
+3
+AP American History
+Roshone, John
+209
+MTWRF
+4
+Study Hall
+Sullivan, Bob
+Dining Room
+MWRF
+4
+College/ Career
+Hinrickson, Noelle
+205
+T
+5
+Spanish II
+Compos, Rita
+103
+MTWRF
+6
+AP English Language
+Wilberding, Ed
+210
+MTWRF
+7
+Honors Physics
+Liebl, Abbot Michael
+206
+MTWRF
+8
+Honors Physics Lab
+Liebl, Abbot Michael
+206
+R
+8
+Study Hall
+Campos, Rita
+Dining
+MTWF
+9
+Honors Calculus III
+Williams, Michael
+206
+MTWRF
+0
+Advanced Robotics
+Williams, Michael
+Crypt
+TR

@@ -1,0 +1,6 @@
+Department, Subject, Room, Credit
+Master Schedule
+Pair Relation, Acceptable Conflitcs
+Stu Registration
+
+Conflicts: Class with fewer stands first
